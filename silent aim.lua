@@ -12,7 +12,7 @@ local placeholdval = false
 if game.PlaceId == 5872075530 then
 	placeholdval = true
 else
-	print("zzzzzz") task.wait(1)
+	game:GetService("Players").LocalPlayer:Kick("Tranquility | Silent Aim is only for Anarchy") task.wait(1)
 	while true do end
 end
 
