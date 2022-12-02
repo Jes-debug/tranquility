@@ -12,7 +12,7 @@ local placeholdval = false
 if game.PlaceId == 5872075530 then
 	placeholdval = true
 else
-	game:GetService("Players").LocalPlayer:Kick("LEARN TO READ SPED") task.wait(1)
+	print("zzzzzz") task.wait(1)
 	while true do end
 end
 
